@@ -2,7 +2,7 @@
 
 A modern and interactive Power BI dashboard that provides **real-time weather insights, 7-day forecasts, and Air Quality Index (AQI) analytics** using data from WeatherAPI.
 
-![Dashboard Preview](/Images/dashboard.png)
+![Dashboard Preview](/Weather Project Using Power Bi/Images/dashboard.png)
 
 ---
 
